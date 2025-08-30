@@ -1,1 +1,5 @@
 STASH 1
+Stash 2
+STASH 1
+Stash 2
+Stash 4
